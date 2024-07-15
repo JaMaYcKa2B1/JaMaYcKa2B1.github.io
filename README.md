@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<a href="https://github.com/JaMaYcKa2B1">
+<a href="https://jamaycka2b1.github.io">
 <img align="top" src="https://github-readme-stats.vercel.app/api?username=JaMaYcKa2B1&count_private=true&show_icons=true&hide=prs,contribs" />
 </a>
